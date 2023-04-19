@@ -1,0 +1,33 @@
+{
+  "0": {
+    "id": 0,
+    "name": "Focusrite scarlett 2i2 USB sound card",
+    "description": "Audio interface for recording, songwriting, streaming and podcasting.",
+    "price": 169.99
+  },
+  "1": {
+    "id": 1,
+    "name": "M-Audio BX5 D2 Studio Monitor",
+    "description": "M-Audio's BX5 studio monitors for high quality audio.",
+    "price": 399.99
+  },
+  "2": {
+    "id": 2,
+    "name": "MOTU 16-channel Audio Interface",
+    "description": "The best selling high-end audio interface for recording, songwriting, streaming, podcasting and so much more.",
+    "price": 659.99
+  },
+  "3": {
+    "id": 3,
+    "name": "Behringer C3 Condenser Microphone",
+    "description": "Most powerful studio recording microphone, captures the best audio quality.",
+    "price": 129.99
+  },
+  "4": {
+    "id": 4,
+    "name": "AKAI MPK Mini MIDI controller ",
+    "description": "Affordable MIDI for your production needs.",
+    "price": 159.99
+  }
+
+}
